@@ -45,7 +45,7 @@ const App = () => {
     return (
         <>
             <nav>
-                <img src="./assets/Studio_Ghibli_logo.png" alt="logo for awesome site yay" />
+                <img id="header-logo" src="./assets/Studio_Ghibli_logo.png" alt="logo for awesome site yay" />
                 <h1>Chirpr</h1>
             </nav>
 
